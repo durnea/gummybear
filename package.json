@@ -1,6 +1,6 @@
 {
   "name": "gummybear",
-  "version": "0.0.0-development",
+  "version": "0.0.2-development",
   "description": "A tiny (p)react component library that knows A11y and can be styled using css variables",
   "main": "index.js",
   "engines": {
