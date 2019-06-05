@@ -12,3 +12,7 @@ script:
   - codecov
 after_success:
   - npm run semantic-release
+deploy:
+  provider: npm
+  email: "vlad@durnea.com"
+  api_key: "caa21942-8245-4ae9-9e63-1c932e068400"

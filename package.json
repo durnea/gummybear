@@ -37,7 +37,9 @@
     "url": "https://github.com/durnea/gummybear.git"
   },
   "dependencies": {
-    "debug": "^4.1.0"
+    "debug": "^4.1.0",
+    "global": "^4.3.2",
+    "travis-cli": "^1.0.9"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.2.1",
